@@ -12,6 +12,7 @@
       <th>Top (Heat-Set Insert)*</th>
       <th></th>
       <th>Bottom</th>
+      <th>Vented</th>
     </tr>
   </thead>
   <tbody>
@@ -23,6 +24,7 @@
       <td><a href="heat-set-insert/t1q-top-L--hsi.stl">t1q-top-L--hsi.stl</a></td>
       <td><img src=".images/t1q-b-l.png" width="125" /></td>
       <td><a href="t1q-bot-L.stl">t1q-bot-L.stl</a></td>
+      <td><a href="vented/t1q-bot-L--v.stl">t1q-bot-L--v.stl</a></td>
     </tr>
     <tr></tr>
     <tr>
@@ -32,8 +34,10 @@
       <td><a href="heat-set-insert/t1q-top-L_M--hsi.stl">t1q-top-L_M--hsi.stl</a></td>
       <td><img src=".images/t1q-b-l-m.png" width="125" /></td>
       <td><a href="t1q-bot-L_M.stl">t1q-bot-L_M.stl</a></td>
+      <td><a href="vented/t1q-bot-L_M--v.stl">t1q-bot-L_M--v.stl</a></td>
     </tr>
     <tr>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -50,6 +54,7 @@
       <td><a href="heat-set-insert/t1q-top-R_60--hsi.stl">t1q-top-R_60--hsi.stl</a></td>
       <td><img src=".images/t1q-b-r-60.png" width="125" /></td>
       <td><a href="t1q-bot-R_60.stl">t1q-bot-R_60.stl</a></td>
+      <td><a href="vented/t1q-bot-R_60--v.stl">t1q-bot-R_60--v.stl</a></td>
     </tr>
     <tr></tr>
     <tr>
@@ -59,6 +64,7 @@
       <td><a href="heat-set-insert/t1q-top-R_65--hsi.stl">t1q-top-R_65--hsi.stl</a></td>
       <td rowspan="3"><img src=".images/t1q-b-r-65.png" width="125" /></td>
       <td rowspan="3"><a href="t1q-bot-R_65.stl">t1q-bot-R_65.stl</a></td>
+      <td rowspan="3"><a href="vented/t1q-bot-R_65--v.stl">t1q-bot-R_65--v.stl</a></td>
     </tr>
     <tr></tr>
     <tr>

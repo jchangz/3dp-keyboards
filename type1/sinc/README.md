@@ -12,6 +12,7 @@
       <th>Top (Heat-Set Insert)*</th>
       <th></th>
       <th>Bottom</th>
+      <th>Vented</th>
     </tr>
   </thead>
   <tbody>
@@ -23,6 +24,7 @@
       <td><a href="heat-set-insert/t1s-top-L--hsi.stl">t1s-top-L--hsi.stl</a></td>
       <td><img src=".images/t1s-b-l.png" width="125" /></td>
       <td><a href="t1s-bot-L.stl">t1s-bot-L.stl</a></td>
+      <td><a href="vented/t1s-bot-L--v.stl">t1s-bot-L--v.stl</a></td>
     </tr>
     <tr></tr>
     <tr>
@@ -32,8 +34,10 @@
       <td><a href="heat-set-insert/t1s-top-L_M--hsi.stl">t1s-top-L_M--hsi.stl</a></td>
       <td><img src=".images/t1s-b-l-m.png" width="125" /></td>
       <td><a href="t1s-bot-L_M.stl">t1s-bot-L_M.stl</a></td>
+      <td><a href="vented/t1s-bot-L_M--v.stl">t1s-bot-L_M--v.stl</a></td>
     </tr>
     <tr>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -50,6 +54,7 @@
       <td><a href="heat-set-insert/t1s-top-R--hsi.stl">t1s-top-R--hsi.stl</a></td>
       <td rowspan="3"><img src=".images/t1s-b-r.png" width="125" /></td>
       <td rowspan="3"><a href="t1s-bot-R.stl">t1s-bot-R.stl</a></td>
+      <td rowspan="3"><a href="vented/t1s-bot-R--v.stl">t1s-bot-R--v.stl</a></td>
     </tr>
     <tr></tr>
     <tr>

@@ -19,7 +19,11 @@
     <tr>
       <td rowspan="5" style="text-align: center;">L</td>
       <td rowspan="5"><img src=".images/t1k-b-l.png" width="100" /></td>
-      <td rowspan="5"><a href="t1k-bot-L.stl">t1k-bot-L.stl</a></td>
+      <td rowspan="5">
+        <a href="t1k-bot-L.stl">t1k-bot-L.stl</a>
+        <br>
+        <a href="vented/t1k-bot-L--v.stl">t1k-bot-L--v.stl</a>
+      </td>
       <td><img src=".images/t1k-t-l.png" width="100" /></td>
       <td style="text-align: center;">–</td>
       <td style="text-align: center;">–</td>
@@ -55,7 +59,11 @@
     <tr>
       <td rowspan="11" style="text-align: center;">R</td>
       <td rowspan="11"><img src=".images/t1k-b-r.png" width="100" /></td>
-      <td rowspan="11"><a href="t1k-bot-R.stl">t1k-bot-R.stl</a></td>
+      <td rowspan="11">
+        <a href="t1k-bot-R.stl">t1k-bot-R.stl</a>
+        <br>
+        <a href="vented/t1k-bot-R--v.stl">t1k-bot-R--v.stl</a>
+      </td>
       <td><img src=".images/t1k-t-r-1.75.png" width="100" /></td>
       <td style="text-align: center;">1.75</td>
       <td style="text-align: center;">–</td>
